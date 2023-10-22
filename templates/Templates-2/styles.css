@@ -95,6 +95,7 @@ button.cyan-button {
 }
 h1 {
     font-size: 36px;
+    text-align: center;
     animation: bounceHeading 2s infinite; /* Apply the bounceHeading animation to the heading */
 }
 @keyframes bounceButton {
